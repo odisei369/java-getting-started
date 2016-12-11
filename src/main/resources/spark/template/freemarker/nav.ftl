@@ -4,7 +4,7 @@
       <li class="active">
         <a href="/"><span class="glyphicon glyphicon-home"></span> Home</a>
       </li>
-      <li class="active">
+      <li class="">
         <a href="hello"><span class="glyphicon glyphicon-user"></span> Hello</a>
       </li>
       <li>
